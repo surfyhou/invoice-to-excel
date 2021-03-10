@@ -1,0 +1,5 @@
+E:\OCR\bin\Debug\net5.0\publish\ocr.exe
+E:\OCR\bin\Debug\net5.0\publish\ocr.dll
+E:\OCR\bin\Debug\net5.0\publish\ocr.deps.json
+E:\OCR\bin\Debug\net5.0\publish\ocr.runtimeconfig.json
+E:\OCR\bin\Debug\net5.0\publish\ocr.pdb

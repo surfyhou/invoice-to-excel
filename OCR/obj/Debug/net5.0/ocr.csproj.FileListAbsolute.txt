@@ -1,0 +1,16 @@
+E:\ocr\bin\Debug\net5.0\ocr.exe
+E:\ocr\bin\Debug\net5.0\ocr.deps.json
+E:\ocr\bin\Debug\net5.0\ocr.runtimeconfig.json
+E:\ocr\bin\Debug\net5.0\ocr.runtimeconfig.dev.json
+E:\ocr\bin\Debug\net5.0\ocr.dll
+E:\ocr\bin\Debug\net5.0\ref\ocr.dll
+E:\ocr\bin\Debug\net5.0\ocr.pdb
+E:\ocr\obj\Debug\net5.0\ocr.csprojAssemblyReference.cache
+E:\ocr\obj\Debug\net5.0\ocr.GeneratedMSBuildEditorConfig.editorconfig
+E:\ocr\obj\Debug\net5.0\ocr.AssemblyInfoInputs.cache
+E:\ocr\obj\Debug\net5.0\ocr.AssemblyInfo.cs
+E:\ocr\obj\Debug\net5.0\ocr.csproj.CoreCompileInputs.cache
+E:\ocr\obj\Debug\net5.0\ocr.dll
+E:\ocr\obj\Debug\net5.0\ref\ocr.dll
+E:\ocr\obj\Debug\net5.0\ocr.pdb
+E:\ocr\obj\Debug\net5.0\ocr.genruntimeconfig.cache
